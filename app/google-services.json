@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569170598281",
+    "firebase_url": "https://booksatlooks.firebaseio.com",
+    "project_id": "booksatlooks",
+    "storage_bucket": "booksatlooks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569170598281:android:e0743f31287feb923c6958",
+        "android_client_info": {
+          "package_name": "com.example.akankshathokade.booksatlooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569170598281-ei95441q1ispsbtfsnjshnirqv7njpep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akankshathokade.booksatlooks",
+            "certificate_hash": "49b39704893cb0faf00da4bec7ff5865835313eb"
+          }
+        },
+        {
+          "client_id": "569170598281-apg8cgmiu93v9q3fc0me49q9rpgnsmgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9z6ub0aV6ieYCz5jnAac4OSI0bpCKFRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569170598281-apg8cgmiu93v9q3fc0me49q9rpgnsmgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
